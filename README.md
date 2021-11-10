@@ -34,6 +34,7 @@ Things you may want to cover:
 | name               | string | null: false               |
 | profile            | text   | null: false               |
 | occupation         | text   | null: false               |
+| position           | text   | null: false               |
 
 ### Association
 
